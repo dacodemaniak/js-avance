@@ -1,0 +1,25 @@
+{
+  "name": "js-avance",
+  "version": "1.0.0",
+  "description": "Pure JS (ES2024) development sample",
+  "main": "src/frontend/dispatcher/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacodemaniak/js-avance.git"
+  },
+  "keywords": [
+    "JS",
+    "NodeJS",
+    "JS",
+    "Library"
+  ],
+  "author": "Aelion <jean-luc.aubert@aelion.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dacodemaniak/js-avance/issues"
+  },
+  "homepage": "https://github.com/dacodemaniak/js-avance#readme"
+}
